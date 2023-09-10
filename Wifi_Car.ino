@@ -18,9 +18,9 @@ int x = 50;
 int y = 50;
 int Speed;
 
-char auth[] = "_S5HGiQqHxa4ykdK5ujlM5ObtETxcQo6"; //Enter your Blynk auth token
-char ssid[] = "AyanFi"; //Enter your WIFI name
-char pass[] = "lxgiwyluzumynw"; //Enter your WIFI passowrd
+char auth[] = ""; //Enter your Blynk auth token
+char ssid[] = ""; //Enter your WIFI name
+char pass[] = ""; //Enter your WIFI passowrd
 
 void setup() {
   Serial.begin(9600);
