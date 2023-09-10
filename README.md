@@ -39,7 +39,8 @@ To build this robot car, you will need the following hardware components:
 ![IMG_20230910_140833_384](https://github.com/AyanNaska/WiFi_Controlled_Robot_Car/assets/113054786/0f867bdf-7172-49a2-acc0-ffbe62891cf1)
 ## Wiring Diagram
 
-![Wiring Diagram](insert_wiring_diagram_link_here)
+![ESP32_2Motors_L298_tot_res](https://github.com/AyanNaska/WiFi_Controlled_Robot_Car/assets/113054786/6918d2c7-f9cd-4bc4-ab8c-68b25f363369)
+
 
 Make sure to connect the components according to the provided wiring diagram. Double-check your connections to avoid any issues.
 
