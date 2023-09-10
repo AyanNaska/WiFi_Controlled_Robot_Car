@@ -4,8 +4,6 @@
 
 This project demonstrates how to build a WiFi-controlled robot car using the ESP32 (Wemos D1 R32) microcontroller, the L298N motor driver, and the Blynk IoT platform. The robot car can be controlled remotely via a mobile app through a WiFi connection. This README provides step-by-step instructions for setting up and using the robot car.
 
-![IMG_20230910_140833_384](https://github.com/AyanNaska/WiFi_Controlled_Robot_Car/assets/113054786/0f867bdf-7172-49a2-acc0-ffbe62891cf1)
-
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -38,7 +36,7 @@ To build this robot car, you will need the following hardware components:
 - Battery pack or power source
 - Jumper wires
 - Breadboard (optional)
-
+![IMG_20230910_140833_384](https://github.com/AyanNaska/WiFi_Controlled_Robot_Car/assets/113054786/0f867bdf-7172-49a2-acc0-ffbe62891cf1)
 ## Wiring Diagram
 
 ![Wiring Diagram](insert_wiring_diagram_link_here)
