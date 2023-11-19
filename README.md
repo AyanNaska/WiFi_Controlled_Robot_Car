@@ -9,6 +9,7 @@ This project demonstrates how to build a WiFi-controlled robot car using the ESP
 - [Prerequisites](#prerequisites)
 - [Hardware Components](#hardware-components)
 - [Wiring Diagram](#wiring-diagram)
+- [Demo](#Demo)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
